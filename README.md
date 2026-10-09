@@ -1,5 +1,7 @@
 # Portfolio – Chaimae Outaleb
 
+![Aperçu](images/apercu.jpg)
+
 Portfolio personnel de **Chaimae Outaleb**, Développeuse Web Full Stack Junior (Casablanca).
 
 Site statique en une page (HTML, CSS, JavaScript) : parcours, compétences, projets filtrables et contact.
